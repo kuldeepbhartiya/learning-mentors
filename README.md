@@ -4,3 +4,8 @@ This project simply consists of learning materials - authors &amp; content creat
 # C#
 ## Zoran Horvat, Vladmir Khorkiv
 
+# Clean Code
+# https://methodpoet.com/clean-code/
+# https://www.youtube.com/watch?v=goVjlWLY9NQ
+# https://www.youtube.com/watch?v=ufeZazqrHjM
+
